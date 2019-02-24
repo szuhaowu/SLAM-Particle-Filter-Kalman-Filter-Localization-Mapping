@@ -1,4 +1,4 @@
-# SLAM---Particle-Filter-and-Mapping
+# SLAM - Particle Filter and Mapping for Python
 Include particle filter and color mapping function
   - Use load_data.py to load all data of sensors (Lidar, IMU, Encoder, Camera)
   - Use main.py to implemnet all the mapping function, including motion model, particle filter, texute mapping
